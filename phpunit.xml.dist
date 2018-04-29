@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/autoload.php">
+  <testsuites>
+    <testsuite name="varunagw_ascii-art">
+      <directory>plugins/varunagw/ascii-art/tests</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>
